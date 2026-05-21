@@ -1,3 +1,5 @@
+package com.pagamento;
+
 import com.pagamento.collection.ListaPagamentos;
 import com.pagamento.iterator.PagamentoIterator;
 import com.pagamento.model.Pagamento;
